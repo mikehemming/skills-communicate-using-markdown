@@ -10,3 +10,6 @@ $ Python
 greeting = "Hello World"
 print(greeting)
 ```
+- [ ] Give a greeting the target world for invasion
+- [ ] Request to be taken to their leader
+- [ ] Steal their leader's dog
